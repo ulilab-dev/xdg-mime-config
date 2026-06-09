@@ -5,4 +5,4 @@
 xdg-mime default org.kde.dolphin.desktop inode/directory 
 ```
 
-copy mimeapps.list to `~/.config`
+copy [mimeapps.list](mimeapps.list) to `~/.config`
